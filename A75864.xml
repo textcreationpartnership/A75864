@@ -1,0 +1,324 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Adam armed: or, An essay; endeavouring to prove the advantages and improvements the kingdom may receive, and the inconveniencies and impediments it may avoid and remedy, by the means of a well-ordered and duly ratified charter for incorporating and regulating the professors of the art of gardening, humbly offered and presented by the master and company of the same.</title>
+            <author>Worshipful Company of Gardeners (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75864</idno>
+            <idno type="STC">Wing A470</idno>
+            <idno type="STC">ESTC R170055</idno>
+            <idno type="EEBO-CITATION">47682791</idno>
+            <idno type="OCLC">ocm 47682791</idno>
+            <idno type="VID">172749</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172749)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2648:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Adam armed: or, An essay; endeavouring to prove the advantages and improvements the kingdom may receive, and the inconveniencies and impediments it may avoid and remedy, by the means of a well-ordered and duly ratified charter for incorporating and regulating the professors of the art of gardening, humbly offered and presented by the master and company of the same.</title>
+                  <author>Worshipful Company of Gardeners (London, England)</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, worn through, with loss of text, and with first part of title defaced; title page only of "Some memorials of the controversie with the wood-mongers or traders in fuel, from the year 1664 to this time" bound at end.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gardeners --  Training of --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="essay">
+            <pb n="1" facs="tcp:172749:1" rendition="simple:additions"/>
+            <head>
+               <hi>Adam Armed: OR,</hi> An <hi>ESSAY;</hi> endeavouring to prove the Advantages and Improve<g ref="char:EOLhyphen"/>ments the Kingdom may receive, and the Inconveniencies and Impediments it may avoid and remedy, by the means of a well-ordered and duly ratifi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Charter for Incorporating and Regulating the Profeſſors of the Art of <hi>Gardening.</hi> Humbly Offered and Preſented by the Maſter and Company of the ſame.</head>
+            <p n="1">1. <seg rend="decorInit">I</seg>T may be worth the Pains of thoſe who are Lovers of Gardening, to conſider the Perfection which that Art is arrived to ſince the Third Year of the Reign of King <hi>JAMES</hi> the Firſt, when we find a Charter granted under the Broad-Seal of <hi>England</hi> to certain Perſons inhabiting within <hi>London</hi> and ſix Miles of it, who were capable and competent to Educate and In<g ref="char:EOLhyphen"/>ſtruct young Men in the Art.</p>
+            <p n="2">2. And that King, being ſenſible of the happy Effects to the King<g ref="char:EOLhyphen"/>dom by reaſon and means of the ſaid Charter, was pleaſed in the Fourteenth Year of his Reign to renew that Charter, and to grant ſun<g ref="char:EOLhyphen"/>dry Additional Priviledges, with Power to make ſuch Laws as they ſhould think requiſite for the better Governing their Corporation, and the Members thereof; and alſo Power to take notice of all ſuch Perſons as ſhould interlope into the ſaid Art, without ſerving thereto according to the Laws and Ordinances of the ſaid Corporation.</p>
+            <p n="3">3. The Abſtract of the ſaid Charter, with all Proclamations granted by the ſaid King and his Succeſſors to the ſaid Corporation, with their Laws made for the Government of the ſame, are mentioned in a proper place, and Reference is thereunto had.</p>
+            <p n="4">4. And from the Premiſſes it appears, there was nothing wanting in His ſaid Majeſty, nor indeed His Succeſſors, to make the ſaid Corpo<g ref="char:EOLhyphen"/>ration a well-regulated Body of Men, able to Educate a Succeſſion of <hi>Gardeners</hi> to ſerve the Kingdom in reſpective Occaſions; as ſome the Nobility and Gentry, ſome the Markets, (which we call <hi>Kitchen-Gardening,</hi>) ſome in Flowers and choice Greens, ſome in Nurſeries, of all ſorts of Fruit-Trees, Hardy Ever-greens, and Trees for Avenues; others in the Deſigning Part, that is, to make Gardens and Plantations; ſome in Botany, or Culture of Plants in general; and ſome in this Cor<g ref="char:EOLhyphen"/>poration as general Practitioners in all the Varieties of this Noble Art.</p>
+            <p n="5">5. And it is at this time demonſtrable, that ſeveral of the Nobility and Gentry's Gardens and Plantations ſuffer very much from the un<g ref="char:EOLhyphen"/>kilful <hi>Gardeners</hi> which they employ, who never ſerving their Time to the Profeſſion, are not qualified to receive under their Charge ſuch Noble Gardens and Plantations.</p>
+            <p n="6">
+               <pb n="2" facs="tcp:172749:2" rendition="simple:additions"/>6. It is alſo found by experience, That ſeveral Gentlemen who are Landlords, are great Sufferers by ſuch Perſons, who pretend them<g ref="char:EOLhyphen"/>ſelves to be Maſter <hi>Gardeners,</hi> and to furniſh the Market with Eatables; for theſe take a Piece of Ground, but for want of Judgment how to crop and manure the ſame as requiſite, they in few years run out their Stock of ready Money, diſappoint their Landlords of their Rents, and leave the Ground in a worſe condition than they found it: Whereas if they had been Able Maſters of their Profeſſion, they might have im<g ref="char:EOLhyphen"/>proved their grounds to much greater value, and ſo enriched them<g ref="char:EOLhyphen"/>ſelves, and much benefitted their Landlords; but theſe are not the only Loſſes and Abuſes, many more are evident, and ſome enumerated in another place.</p>
+            <p n="7">7. If it be demanded, Why the Corporation hath not put their Laws in Execution, for regulating thoſe Enormities which have been and are committed? And, Why more good Laws are not made to regulate young Men in the ſaid Art, and ſo prevent the Abuſes premiſed, and others?</p>
+            <p n="8">8. It may be anſwered, That the ſaid Corporation hath wanted the aſſiſtance of an Act of Parliament to give them Power to put thoſe Laws in execution, which by the King's Letters Patents they had Leave to make.</p>
+            <p n="9">9. For the well-affected part of the Corporation being poor, and in thoſe days not many in number, they could not prevail with the greater and richer part of it to joyn pertinent Methods, and having no coer<g ref="char:EOLhyphen"/>cive Power, for want of an Act of Parliament the Ordinances could not actuate, and ſo Irregularities increaſed, which is found very prejudicial not only to the Welfare of the ſaid Corporation, but to all the great Gardens and Plantations of the Kingdom.</p>
+            <p n="10">10. But indeed, thô the Laws of the ſaid Charters had been capable of Execution, yet their Limits were ſo narrow, that only a few in compariſon of the whole Kingdom could partake of their Benefit; and beſides, Offenders found it an eaſie matter to evade all Penalties pro<g ref="char:EOLhyphen"/>nounced againſt them, by removing and diſpoſing themſelves without the Precinct; which brought the ſaid Charters even under contempt, as well as to be of no uſe: Hence if ſuch a Corporation may be eſteemed uſeful to the Kingdom for preventing the premiſed Abuſes, and for procuring certain Advantages, as diſcuſſed in proper place, it's humbly ſuppoſed, That a Charter extenſive all over the Kingdom may be neceſ<g ref="char:EOLhyphen"/>ſary, as well as moſt agreeable.</p>
+            <p n="11">11. And if ſuch an Enlargement be granted and confirmed by Act of Parliament, the Maſter and Wardens of the ſaid Company do promiſe for themſelves and their Succeſſors in the Corporation, to Ordain, Make, and cauſe to be Kept, ſuch Methods, Laws, and Ordinances, as ſhall be beſt for Educating young Men in the ſeveral Diviſions of Gardening, in order to Qualifie them to ſerve any Noblemen or Gentlemen whatſo<g ref="char:EOLhyphen"/>ever, and for Puniſhing ignorant People who intrude themſelves into the Profeſſion without having ſerved their Time.</p>
+            <pb n="3" facs="tcp:172749:2"/>
+            <p>Thus a Charter ſo comprehenſive and ratified as premiſed and prayed, is capable of giving the Kingdom theſe Advantages.</p>
+            <p n="1">1. The preventing and remedying the Abuſes and Loſſes many do ſuffer (and all are liable to) by the Undertakings and Pretenſions of Perſons that are ignorant in the Deſigns and Performances of Garden<g ref="char:EOLhyphen"/>ing, ſome of which are enumerated in a due place.</p>
+            <p n="2">2. The Accommodation of the Nobility and Gentry (many whereof do much favour, encourage, and promote the Advancement of the Profeſſion and its Deſigns,) with able and skilful Servants for the ma<g ref="char:EOLhyphen"/>nage of their Plantations, and the improvement of their Eſtates, by Knowledge they are furniſhed with in the Nature of Grounds and Cli<g ref="char:EOLhyphen"/>mates. This Society upon the Settlement premiſed undertaking to Educate, Train, and Inſtruct Youth in all and every the Parts of the Profeſſion; ſo that thence may be ſucceſſively drawn Perſons proper for all Occaſions.</p>
+            <p n="3">3. And the Kingdom will then receive the Progreſſes, Improve<g ref="char:EOLhyphen"/>ments, and uſeful Obſervations that have been made in the Art, and hitherto kept in obſcurity by reaſon of the Diſcouragement that Igno<g ref="char:EOLhyphen"/>rance (and thence Malice and Mean-ſpiritedneſs) has cauſed againſt all Attempts to impart any thing.</p>
+            <p n="4">4. Which Impediments, thô they have diſappointed the Kingdom of many Ornaments and Advantages, yet ſo well enclined and affectioned have ſome among the Nobility and Gentry been to to the Art, that by their Encouragement, Protection, Shelter, and Example, it has ſo thriven, that many excellent Performances have been able to appear in the World; and indeed it ſeems ſo far to have gained a Reputation, that its Well-wiſhers and Promoters do fancy to themſelves they have ſome glimpſes of bringing that Art to perfection. A Charter well con<g ref="char:EOLhyphen"/>firmed will certainly do it, for then the Men of Skill will be Encou<g ref="char:EOLhyphen"/>raged and Rewarded, and the Ignorant will not dare to appear for fear of being expoſed to due Contempt, and of being duly puniſhed. Thus nothing will be buried that's uſeful neither of Man nor of Earth; Man will communicate all he knows and finds, and all Soils will be cultivated into Fertility and Beauty.</p>
+            <pb n="4" facs="tcp:172749:3"/>
+            <p>For the Art branching into theſe Particulars:
+<list>
+                  <item>1. <hi>Potagery,</hi> comprehending all Sallads, <hi>&amp;c.</hi> for the Kitchen.</item>
+                  <item>2. <hi>Florilege,</hi> under which Head are Flowers, Ever-greens, <hi>&amp;c.</hi>
+                  </item>
+                  <item>3. <hi>Orangery,</hi> under which are ranked Stoves of Foreign Plants, <hi>&amp;c.</hi>
+                  </item>
+                  <item>4. <hi>Sylvia,</hi> containing Avenues, Lawns, <hi>&amp;c.</hi> for Entrances into Noble Houſes.</item>
+                  <item>5. <hi>Botany,</hi> compriſing the Study and Knowledge of all the Plants.</item>
+                  <item>6. From the third and fourth Heads do iſſue out another, which may be termed the <hi>Nurſery</hi> Part, which undertakes the Propagating and Rai<g ref="char:EOLhyphen"/>ſing all Greens, Fruit-Trees, and Trees for Avenues, fit for Planting abroad.</item>
+                  <item>7. The <hi>Deſigning</hi> Part, undertaking the making Grounds, Par<g ref="char:EOLhyphen"/>terres, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The Reflection upon which Particulars, will give a view of the Or<g ref="char:EOLhyphen"/>naments and Advantages accruing from a proper Cultivating of 'em, which depends upon Order and Method, and theſe on Power.</p>
+            <p>The laſt of theſe is the Spring and Life of the other, and to repre<g ref="char:EOLhyphen"/>ſent how all ſhould be actuated thereby, the Company propoſe imme<g ref="char:EOLhyphen"/>diately to Incorporate</p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="3">Skill'd competently in all Parts of the Pro<g ref="char:EOLhyphen"/>feſſion, and in all its Laws, Limits, and Orders.</cell>
+                     <cell>
+                        <hi>Garden Deſigners</hi> — 10</cell>
+                     <cell rows="3">Theſe in reſpective Counties to take Cognizance of all Matters relating to the Company and Profeſſion.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Gardeners</hi> to Noblemen 150</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Gardeners</hi> to Gentlemen 400</cell>
+                  </row>
+               </table>
+            </p>
+            <p>All to take Apprentices for Seven Years.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="5">Theſe to take Apprentices for Five Years.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nurſery-men</hi>
+                     </cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Floriſts</hi>
+                     </cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Botaniſts</hi>
+                     </cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Gardeners</hi> for Market</cell>
+                     <cell>200</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>In all</cell>
+                     <cell>1030</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Theſe being diſperſed and diſpoſed in convenient Stations, are able as ſo many Streams to communicate the Benefit of the Fountain to all the Kingdom, and every one thereby receives what's ſafe and wholſom even at his own Door.</p>
+            <pb n="5" facs="tcp:172749:3"/>
+            <p>That all <hi>England</hi> and <hi>Wales</hi> may with eaſe and convenience partake of the Advantages by ſuch Settlement and Method of <hi>Gardening</hi> as premiſed, it is propoſed by the ſaid Maſter, Wardens, and Company, That a certain number of <hi>Gardeners</hi> of the Nobility and Gentry ſhall be Incorporated; and theſe, being ſo diſpoſed in all Counties, that they can have ready Correſpondence with each other, and be able to diſcover and diſcern what can poſſibly happen in each mean ſpace between one another, ſhall (their Lords and Maſters permitting) have Power to to take Cognizance of, and Examine all Matters and Things relating to the ſaid Company and Profeſſion, and likewiſe to execute all ſuch Laws, Directions, and Orders, as ſhall be tranſmitted them by the ſaid Company for the better Government, Credit, and Advantage of the ſame, and for preventing and readily remedying all Abuſes that can be attempted againſt the Gentry and Company by Pretenders to, and Smatterers in the Profeſſion.</p>
+            <p>That every particular Nobleman and Gentleman may, from time to time, be furniſhed with ſuch ſervants as maybe proper and qualified for the Occaſion; upon notice to any, one of the laſt mentioned <hi>Gardeners</hi> within the reſpective Diſtrict, or to the Company, he or they may with all convenient ſpeed and intercourſe be accommodated accordingly. And thus may he depend both on the Skill, Honeſty, and Induſtry of the Servant or Servants; the ſaid Company obliging themſelves to forward none but ſuch as are both Able and Exact.</p>
+            <p>If it do happen, that any Perſon ſo forwarded, or that are Free of the Company, do not behave themſelves accordingly to the Character of the Company, but become Negligent or Vicious; upon Complaint thereof to the Company, or to the Members thereof that's neareſt, that Nobleman or Gentleman, may have immediate Redreſs; that is, he may have another Servant for his Occaſions, and the old one puniſhed to demerit.</p>
+         </div>
+         <div type="summary">
+            <pb n="6" facs="tcp:172749:4"/>
+            <head>A Summary of the chief Matters contained in the <hi>GARDENERS</hi> Charters.</head>
+            <p>THE firſt Charter or Patent bearing date the 18th day of <hi>Septem<g ref="char:EOLhyphen"/>ber, Tertio Jacobi Regis.</hi> Folio 1.</p>
+            <p>Election of Maſter and Wardens; within 7 Days after Death or De<g ref="char:EOLhyphen"/>privation to chuſe: The Elect to be ſworn within 21 Days. The Oaths of Maſter and Warden. <hi>Fol.</hi> 7.</p>
+            <p>Maſter and Wardens to have 14 Days liberty. Penalty 5 Marks. None to be choſen above three times in his Life time. Election of Aſſiſtants. Die, or be deprived, to Elect others. Aſſiſtants to be ſworn. Oath of Aſſiſtants. <hi>Fol.</hi> 8.</p>
+            <p>The Penalty refuſing being an Aſſiſtant, 40 <hi>s.</hi> New Maſter and Wardens to Elect Auditors. The Oath of an Auditor; refuſing to be an Auditor. <hi>Fol.</hi> 9.</p>
+            <p>To Elect a Clerk. The Oath of the Clerk. To Elect a Beadle. <hi>Fol.</hi> 10.</p>
+            <p>The Oath of the Beadle. The Livery of the Freemen. Every one choſen into the Livery, ſhall pay 6 <hi>s</hi>: 8 <hi>d. Fol.</hi> 11.</p>
+            <p>To the Clerk 3 <hi>s</hi>: 4 <hi>d.</hi> To the Beadle 1 <hi>s.</hi> Refuſing to be of the Livery, 1 <hi>l</hi>: 6 <hi>s</hi>: 8 <hi>d.</hi> What number of Apprentices ſhall be kept. Pe<g ref="char:EOLhyphen"/>nalty exceeding the number of Apprentices 10 <hi>s.</hi> Not to keep an Apprentice a Month unbound, nor unpreſented, Penalty 10 <hi>s.</hi> a Month. Indentures, 16 <hi>d.</hi> Preſenting, 2 <hi>s. Fol.</hi> 12.</p>
+            <p>Not to ſet over an Apprentice to another Myſtery, Penalty 40<hi>s.</hi> Every one to be made Free to be ſworn to the Supremacy: And to pay to the Company 2 <hi>s</hi>: 6 <hi>d</hi>; to the Clerk 18 <hi>d</hi>; to the Beadle 1 <hi>s.</hi> Not to change his Freedom without Conſent, Penalty 5 <hi>l. Fol.</hi> 13.</p>
+            <p>Journey-men not to work with ſuch as are not allowed by the Com<g ref="char:EOLhyphen"/>pany, Penalty 10 <hi>s.</hi> Court of Aſſiſtants to be kept Monthly, De<g ref="char:EOLhyphen"/>fault 10 <hi>s.</hi> Quarter-Court Day. <hi>Fol.</hi> 14.</p>
+            <p>Default. What Hours Court ſhall begin, late coming, departure before Court be up. Several Fines and Penalties impoſed. <hi>Fol.</hi> 15.</p>
+            <p>Every one to pay 6 <hi>d,</hi> a Quarter. To go in Livery to Burials. Ap<g ref="char:EOLhyphen"/>pearance at Meetings upon Summons, Default 3 <hi>s</hi>: 4 <hi>d. Fol.</hi> 16.</p>
+            <p>Accounts to be made. <hi>Fol.</hi> 17.</p>
+            <p>Penalty 5 <hi>l.</hi> To provide a Cheſt with three Keys. The Ordinances to be read Quarterly. Diſplace Maſter, Wardens, Aſſiſtants, Clerk, or Beadle. <hi>Fol.</hi> 18.</p>
+            <pb n="7" facs="tcp:172749:4"/>
+            <p>Any of the Livery to be ſecluded, if he uſes his place during ſecluſion Forfeits, 5 <hi>l.</hi> Reviling Maſter, Wardens or Aſſiſtants 3 <hi>s.</hi> 4 <hi>d.</hi> Maſter or Servants being diſobedient, ſhall forfeit 6 <hi>s.</hi> 8 <hi>d.</hi> None ſhall uſe the Trade without conſent. <hi>fol.</hi> 19.</p>
+            <p>Enticing away any Man's Servant, every time ſo doing, 3 <hi>l.</hi> 6 <hi>s.</hi> 8 <hi>d.</hi> no one ſhall uſe Trade, except he be brought up to the ſame 7 years, 5 Marks for ſetting Journeymen to work, not allowed, or ſerved 7 years. <hi>fol.</hi> 20.</p>
+            <p>Every one to obſerve the Ordinances; Maſter and Wardens to take Diſtreſs, <hi>fol.</hi> 21.</p>
+            <p>Oath of Supremacy, Freeman's Oath, every Offender to make his appearance upon Summons, Default 10 <hi>s.</hi> no Leaſe above 21 years, <hi>fol.</hi> 22.</p>
+            <p>Not wearing decent Apparrel, 3 <hi>s.</hi> 4 <hi>d.</hi> Livery-men to be decently Apparrelled, and of decent Behaviour, pain 3 <hi>s.</hi> 4 <hi>d. fol.</hi> 23.</p>
+            <p>The laſt Charter or Patent is dated the 9th day of <hi>November,</hi> 14 <hi>Jacobi Regis, fol.</hi> 25.</p>
+            <p>Name, Capable in Law, Common Seal, One Maſter, Two Wardens, 24 Aſſiſtants, <hi>fol.</hi> 26.</p>
+            <p>Election-day, chuſe a Beadle, Firſt Maſter, Firſt Wardens, Firſt Aſſiſtants, <hi>fol.</hi> 27.</p>
+            <p>Dye or remove, to chuſe a new Beadle, to admit Freemen to take Apprentices; how many. None to uſe the Trade without conſent. <hi>vid.</hi> 5. <hi>Eliz.</hi> 38. <hi>fol.</hi> 28.</p>
+            <p>Market-places for Foreigners, Forfeitures to the Poor, Seize and car<g ref="char:EOLhyphen"/>ry away the Forfeiture, Search and conſume bad Ware, Power to make By-Laws.</p>
+            <p>Submiſſion to Contributions and Aſſeſsments, To Fine or Amerce Perſons, To complain to the Lord Mayor, or Juſtice of Peace, <hi>fol.</hi> 30.</p>
+            <p>To commit to the Common Goal, till ſufficient Sureties be found, with conformity. A Command for Aid, <hi>Proviſo, fol.</hi> 31.</p>
+            <pb n="8" facs="tcp:172749:5"/>
+            <p>Innumerable are the Obſervations which are and may be made of the enormities committed by unskilful Undertakers in the Art, ſo to reckon all, would be too tedious; but to enumerate ſome of them, we ſhall be<g ref="char:EOLhyphen"/>gin with thoſe that pretend to the Deſigning part.</p>
+            <p n="1">1. Theſe Pretenders are moſt of them ſo unskilful in <hi>Mathematicks,</hi> that they know not common proportions, nor to take the Profiles of any ground; ſo that they, and ſometimes a Surveyor (I mean, one that uſurps that Title) that is as ignorant as they, ſet out the Wall-lines at random, and in a little time after, when a skilful Man comes to examine them, halfe, or more of thoſe Wall-lines muſt be taken down, or elſe vaſt quantities of Earth muſt be brought in or carried out, to bring the Garden to ſuch a level as it muſt be, if the ground is to anſwer the levels of the walls; which proves a great charge to perſons for whom the work is to be per<g ref="char:EOLhyphen"/>formed; and this does alſo diſcourage and overturn many brave deſigns and attempts.</p>
+            <p n="2">2. Theſe pretenders are as little skill'd in that part which relates to the ſecuring bodies of good Earth for the general Planting; they conſi<g ref="char:EOLhyphen"/>der only ſomething called Levelling, that is, (according to their Senſe) to take down a Hill, and turn it into the next hole, and not to take out the good Earth from that hole; nor to take off the good Earth from the top of that Hill; but ſink the good Earth, and bury it in the hole with bad Earth, a top of it, and leave that which was a Hill, a flat dead Clay, or worſe.</p>
+            <p n="3">3. Again, the pretenders to this deſigning part, are ſo unskilful in knowing how to make a collection of Fruit-trees, for thoſe lame de<g ref="char:EOLhyphen"/>ſigns which they have made, that they know not what is proper to Plant againſt the ſeveral Aſpects of thoſe Walls; nor what for Dwarfs, nor high ſtanders, nor what kinds of hardy Ever-greens, or flowring Shrubs are proper for Walks, Standers, Center-trees or Hedges, or what Orna<g ref="char:EOLhyphen"/>mental lines of Edgings, or lines of roots of Flowers, their Beds or Bor<g ref="char:EOLhyphen"/>ders require to adorn their Gardens: and the eſculant Herbs or Florilege, moſt of them are very ignorant in, as ſeveral of their works demon<g ref="char:EOLhyphen"/>ſtrate.</p>
+            <p>Theſe are ſome of the enormities committed by unskilful Deſigners. But is not one tenth part of what may be ſaid of, and againſt them, and of the loſſes by them.</p>
+            <p>We come next to mention part of the Enormities which are commit<g ref="char:EOLhyphen"/>ted by a ſort of Men which have crept into the Art of Gard'ning, by ſtealth, contrary, and in oppoſition to thoſe By-Laws and Ordinances of the Corporation's Charter; they are the very Peſt and Plague to all thoſe which ſhall have the misfortune to receive them into their ſervices.</p>
+            <pb n="9" facs="tcp:172749:5"/>
+            <p>And the Spring, from whence all thoſe Rivulets of foul water have proceeded, has been from thoſe many new Gardens and Plantations, which have been made ſince the reſtauration of King <hi>Charles</hi> the Se<g ref="char:EOLhyphen"/>cond, as
+<list>
+                  <item>
+                     <hi>Royal Garden,</hi> Within the limits of the Corpo<g ref="char:EOLhyphen"/>ration's Charter.</item>
+                  <item>
+                     <hi>Clarendon-houſe Garden,</hi> Within the limits of the Corpo<g ref="char:EOLhyphen"/>ration's Charter.</item>
+                  <item>
+                     <hi>Berkſhire-houſe Garden,</hi> Within the limits of the Corpo<g ref="char:EOLhyphen"/>ration's Charter.</item>
+                  <item>
+                     <hi>Berkeley-houſe Garden.</hi> Within the limits of the Corpo<g ref="char:EOLhyphen"/>ration's Charter.</item>
+                  <item>And ſeveral more of leſs note. Within the limits of the Corpo<g ref="char:EOLhyphen"/>ration's Charter.</item>
+               </list>
+            </p>
+            <p>When theſe Gardens were firſt made, the Maſters, Deſigners and Gardeners could not perform thoſe Works with a few hands; ſo they were obliged to receive into the Works, Men from ſeveral Countreys, eſpecially from the North, who were a hardy ſort of People, knowing nothing but plain Labour, and were willing to work as long as they were poor; but when they were warmed with Proviſions of all ſorts, and received ſuch great increaſe of wages, from what they had in their own Countreys; the firſt thing that thoſe were skill'd in, was to be debauch'd in Drinking, <hi>&amp;c.</hi>
+            </p>
+            <p>Upon report of theſe North Countrey Mens preferments, ſeveral from other Counties reſorted upon the ſame errand, (and His Maje<g ref="char:EOLhyphen"/>ſties Plantations of St. <hi>James's-Park, Greenwich</hi> and <hi>Hampton-Court</hi> being deſigned) all ſorts were received into preſent pay; but theſe recruits proved to be as great debauchees as their predeceſſors, or worſe; for the firſt came from pure Ignorance and Poverty, but many of the laſt had lived voluptuouſly, and led debauched lives in their own Coun<g ref="char:EOLhyphen"/>trey, and could not live there any longer; ſo up they came to theſe places for refuge to ſecure them from their Creditors. Now from theſe two, it is very unlikely that a ſucceſſion of good Gardeners ſhould ſpring; but the miſchief ends not here: For theſe Men obſerving how Gardeners did improve their fortunes, and how well the Maſters of that Art lived, were emboldened to put on a blew Apron, and pro<g ref="char:EOLhyphen"/>feſs themſelves to be Maſters of the Art, <hi>&amp;c.</hi> And by the help of a grand aſſurance and impudent ſtories, ſeveral of them were received and employed as Maſters; and in a little time, theſe Maſters received into their Works, ſeveral of their old Comrades, who in ſome time were alſo made Gardeners; and by theſe methods the enormities increaſed, contrary to the Charter, althô committed within the limits of the ſame; which, as the
+<pb n="10" facs="tcp:172749:6"/> Maſter and Wardens ſay, they could not put a ſtop to, for want of Pow<g ref="char:EOLhyphen"/>er; for, thô the Laws of the Charter impoſes ſeveral Marks forfeiture, for ſetting any Perſon into ſuch an Imployment, without being qualified, yet they could not levy any thing, beſides what was within the new limits of the Charter: At the ſame time, and ſeveral years ſince, many Noble<g ref="char:EOLhyphen"/>men and Gentlemen have made ſeveral fine Gardens and Plantations in ſeveral Counties of <hi>England,</hi> in which have been employed many Labourers that have uſurped the name of Gardeners, and thereby been m<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>vous, as his Grace the
+<list>
+                  <item>Duke of
+<list>
+                        <item>
+                           <hi>Beaufort.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>The Right Honourable the Earls of
+<list>
+                        <item>
+                           <hi>Cheſterfield,</hi>
+                        </item>
+                        <item>
+                           <hi>Sunderland,</hi>
+                        </item>
+                        <item>
+                           <hi>Rutland,</hi>
+                        </item>
+                        <item>
+                           <hi>Bedford,</hi>
+                        </item>
+                        <item>
+                           <hi>Devonſhire,</hi>
+                        </item>
+                        <item>
+                           <hi>Ailsbury,</hi>
+                        </item>
+                        <item>
+                           <hi>Craven.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list> But the greateſt inſtance of the increaſe of ignorant Gardeners, hath been from Their Majeſties Works at <hi>Hampton-Court</hi> and <hi>Kenſington,</hi> ſince the year 1690, upon the new making thoſe Gardens and Plantations, there hath been at one time at work above Five hundred Men, and at the ſame time there has not been above Fifty Gardeners, and ſcarce Ten of that Fifty able Maſters.</p>
+            <p>It is evident that among the number of Men that are diſperſed up and down in ſeveral places, a great many who were but Labourers could not learn the Art in thoſe Works, for they were employed but upon wheeling and digging work, the Maſter Gardeners did perform the chief works, and the whole work laſted but three Years; ſo that it was im<g ref="char:EOLhyphen"/>poſſible that that little time could educate ſo many Men as run up and down under the name of Gardeners, educared in Their Majeſties Works.</p>
+            <p>To theſe may be added a few more of another kind of Education, which ſprung from another head, and are the worſe; they are ſuch as came from ſeveral private Gentlemens Families, who having Gardens not large enough to employ a Gardener, they employ'd a Livery-man of theirs to ſpend his ſpare hours in the Garden which he had, from driving his Coach, or looking after his Saddle Horſes, or ſome other Employments
+<pb n="11" facs="tcp:172749:6"/> in the Family; this Man, after being employ'd ſome time after this method, is diſcharg'd from that ſervice; then he conſiders, that a Gar<g ref="char:EOLhyphen"/>deners employment is much more beneficial than that he was in before; ſo he puts on a blew Apron, and ſets up for a profeſs'd Gardener, and 'tis odds has the knack of Grimacy's competent to impoſe upon credu<g ref="char:EOLhyphen"/>lity.</p>
+            <p>There may be ſeveral other reaſons given, why <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r<g ref="char:EOLhyphen"/>deners which are of general knowledge in the Art of Gardening, althô they have ſerved their times to ſome of the ſaid Branches; as for ex<g ref="char:EOLhyphen"/>ample.</p>
+            <p n="1">1. A young Man is put an Apprentice under that part which we call <hi>Kitchen Garden,</hi> or <hi>Market Gardens,</hi> during his time he makes himſelf as capable of his Art, as could be expected.</p>
+            <p n="2">2. Another is put to a Nurſery Man, where is only the practice of propagating Trees.</p>
+            <p n="3">3. Another ſerves to a Floriſt.</p>
+            <p>Now, theſe three having ſerved ſeven Years, do believe they are capa<g ref="char:EOLhyphen"/>ble to receive under their charge any Noblemans Garden and Plantati<g ref="char:EOLhyphen"/>ons; but how capable they may be, is left to ſome perſons to be Judges: for it is ſuppoſed that a Noblemans Garden and Plantation does or ſhould conſiſt of all the branches of the Art of Gardening, and that every Nobleman and Gentleman who is a lover of the Art, would wil<g ref="char:EOLhyphen"/>lingly have his Gardens and Plantations, an Epitome of thoſe great Gardens, according to what expences he pleaſes to allow himſelf on and for thoſe innocent diverſions.</p>
+            <p>Now, how is it likely for one of thoſe three ſorts of young Men, who are but juſt out of their time, and juſt are a little skill'd in any one of thoſe three Branches, can be an able proficient in any of the other ſix parts which are requiſite for a Gardener that ſerves a Nobleman or Gentleman to know.</p>
+            <p>It is alſo obſerved, that theſe young Men after they come from their Ap<g ref="char:EOLhyphen"/>prenticeſhip, where they uſed to work hard, and had ſevere uſage, when they are taken into theſe Noblemens and Gentlemens Families, where Gaiety is to be ſeen, and where is good Eating and Drinking, and a
+<pb n="12" facs="tcp:172749:7"/> liberty of leiſure time, they are tranſported as it were into another World; ſeveral of them have fancied that they have arrived to a per<g ref="char:EOLhyphen"/>fect happy ſtate, and that there is no more need of improving themſelves in the Art of Gardening: ſo their work is to ſet up for bravery in their dreſs, and to learn to be debauched and lewd, to conſider the pleaſures of Hunting, Shooting, and ſome other Games, and in theſe divertiſe<g ref="char:EOLhyphen"/>ments they ſpend their years; and as they live to be old, they dye, not <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Beggars.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
